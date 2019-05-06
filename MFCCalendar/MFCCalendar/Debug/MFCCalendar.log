@@ -1,0 +1,103 @@
+﻿  MFCCalendarDlg.cpp
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\cnamespace.h(3): warning C4278: “CopyFile”: 类型库“C:\\Program Files\\Microsoft Office\\Office16\\MSOUTL.OLB”中的标识符已经是宏；使用“rename”限定符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6175): error C3121: 无法更改“Folder”类的 GUID
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6175): note: 参见“Folder”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6737): error C3646: “PickerDialog”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6737): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6739): error C3646: “Assistance”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6739): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6749): error C3646: “Assistant”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6749): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6755): error C3646: “COMAddIns”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6755): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6761): error C3646: “LanguageSettings”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6761): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6765): error C3646: “AnswerWizard”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6765): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6779): error C3646: “GetAssistant”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6779): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6779): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6794): error C3646: “GetCOMAddIns”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6794): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6794): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6797): error C3646: “GetLanguageSettings”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6797): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6797): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6799): error C3646: “GetAnswerWizard”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6799): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6799): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6822): error C3646: “GetAssistance”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6822): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6822): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6824): error C3646: “GetPickerDialog”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6824): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6824): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7045): error C3646: “CreateContactCard”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7045): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7046): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7929): error C3646: “CommandBars”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7929): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7967): error C3646: “GetCommandBars”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7967): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7967): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(17656): error C3646: “CommandBars”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(17656): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(17712): error C3646: “GetCommandBars”: 未知重写说明符
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(17712): error C2059: 语法错误:“(”
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(17712): error C2238: 意外的标记位于“;”之前
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(21280): error C2556: “AddressEntryPtr _AppointmentItem::GetOrganizer(void)”: 重载函数与“_bstr_t _AppointmentItem::GetOrganizer(void)”只是在返回类型上不同
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(21178): note: 参见“_AppointmentItem::GetOrganizer”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(21280): error C2371: “_AppointmentItem::GetOrganizer”: 重定义；不同的基类型
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(21178): note: 参见“_AppointmentItem::GetOrganizer”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27821): error C2039: “GetAssistant”: 不是“_Application”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6724): note: 参见“_Application”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27821): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27821): error C2497: “AssistantPtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27821): error C2146: 语法错误: 缺少“;”(在标识符“GetAssistant”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27831): error C2039: “GetCOMAddIns”: 不是“_Application”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6724): note: 参见“_Application”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27831): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27831): error C2497: “COMAddInsPtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27831): error C2146: 语法错误: 缺少“;”(在标识符“GetCOMAddIns”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27834): error C2039: “GetLanguageSettings”: 不是“_Application”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6724): note: 参见“_Application”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27834): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27834): error C2497: “LanguageSettingsPtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27834): error C2146: 语法错误: 缺少“;”(在标识符“GetLanguageSettings”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27836): error C2039: “GetAnswerWizard”: 不是“_Application”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6724): note: 参见“_Application”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27836): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27836): error C2497: “AnswerWizardPtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27836): error C2146: 语法错误: 缺少“;”(在标识符“GetAnswerWizard”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27848): error C2039: “GetAssistance”: 不是“_Application”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6724): note: 参见“_Application”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27848): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27848): error C2497: “IAssistancePtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27848): error C2146: 语法错误: 缺少“;”(在标识符“GetAssistance”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27850): error C2039: “GetPickerDialog”: 不是“_Application”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6724): note: 参见“_Application”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27850): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27850): error C2497: “PickerDialogPtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27850): error C2146: 语法错误: 缺少“;”(在标识符“GetPickerDialog”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27896): error C2039: “CreateContactCard”: 不是“_NameSpace”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(6918): note: 参见“_NameSpace”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27896): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27896): error C2497: “ContactCardPtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(27896): error C2146: 语法错误: 缺少“;”(在标识符“CreateContactCard”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(28027): error C2039: “GetCommandBars”: 不是“_Inspector”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(7918): note: 参见“_Inspector”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(28027): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(28027): error C2497: “_CommandBarsPtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(28027): error C2146: 语法错误: 缺少“;”(在标识符“GetCommandBars”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(29711): error C2039: “GetCommandBars”: 不是“_Explorer”的成员
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(17649): note: 参见“_Explorer”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(29711): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(29711): error C2497: “_CommandBarsPtr”:“implementation_key”只能应用于函数声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(29711): error C2086: “int _CommandBarsPtr”: 重定义
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(28027): note: 参见“_CommandBarsPtr”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(29711): error C2146: 语法错误: 缺少“;”(在标识符“GetCommandBars”的前面)
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(30504): error C2556: “AddressEntryPtr _AppointmentItem::GetOrganizer(void)”: 重载函数与“_bstr_t _AppointmentItem::GetOrganizer(void)”只是在返回类型上不同
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(21178): note: 参见“_AppointmentItem::GetOrganizer”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(30504): error C2371: “_AppointmentItem::GetOrganizer”: 重定义；不同的基类型
+  d:\outlook_develope\calendar\mfccalendar\mfccalendar\debug\msoutl.tlh(21178): note: 参见“_AppointmentItem::GetOrganizer”的声明
+d:\outlook_develope\calendar\mfccalendar\mfccalendar\mfccalendardlg.cpp(13): warning C4278: “CopyFile”: 类型库“C:\\Program Files\\Microsoft Office\\Office16\\MSOUTL.OLB”中的标识符已经是宏；使用“rename”限定符
